@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>png/background.png</file>
+        <file>png/avart.png</file>
+        <file>png/1.png</file>
+        <file>png/2.png</file>
+        <file>png/2off.png</file>
+        <file>png/2on.png</file>
+        <file>png/3off.png</file>
+        <file>png/3on.png</file>
+        <file>png/4off.png</file>
+        <file>png/4on.png</file>
+        <file>png/5off.png</file>
+        <file>png/5on.png</file>
+        <file>png/6off.png</file>
+        <file>png/6on.png</file>
+        <file>png/7off.png</file>
+        <file>png/7on.png</file>
+        <file>png/8off.png</file>
+        <file>png/8on.png</file>
+        <file>png/9off.png</file>
+        <file>png/9on.png</file>
+        <file>png/10off.png</file>
+        <file>png/10on.png</file>
+        <file>png/11off.png</file>
+        <file>png/11on.png</file>
+        <file>png/12off.png</file>
+        <file>png/12on.png</file>
+        <file>png/13off.png</file>
+        <file>png/13on.png</file>
+        <file>png/14off.png</file>
+        <file>png/14on.png</file>
+        <file>png/15off.png</file>
+        <file>png/15on.png</file>
+        <file>png/16off.png</file>
+        <file>png/16on.png</file>
+        <file>png/17off.png</file>
+        <file>png/17on.png</file>
+        <file>png/ledoff.png</file>
+        <file>png/ledon.png</file>
+    </qresource>
+</RCC>
